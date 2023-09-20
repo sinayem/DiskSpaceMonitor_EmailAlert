@@ -9,5 +9,10 @@ SMTP: A Simple Mail Transfer Protocol (SMTP) is a form of communication between 
 I have faced the **5.7.0 Authentication Required** problem, which I solved by creating an app password. [Reference](https://stackoverflow.com/questions/66044348/sending-mail-from-powershell-via-gmail-smtp)
 <br>
 <br>
+Run the script in PowerShell: <br>
+<img width="402" alt="image" src="https://github.com/sinayem/DiskSpaceMonitor_EmailAlert/assets/68912545/0ecbd33c-08e8-48ca-90e5-30d454f81e93"> <br>
+### NOTE: This manual process can be automated by Windows Task Scheduler.
+<br>
+<br>
 Finally, this is the email I received: <br>
 <img width="626" alt="image" src="https://github.com/sinayem/DiskSpaceMonitor_EmailAlert/assets/68912545/2d0ed8f2-07d7-4658-951d-e2bf880409b3">
